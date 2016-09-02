@@ -1,0 +1,53 @@
+{products: [
+{
+	"id" : 001,
+	"name" : "The Hangout",
+	"color" : "white",
+	"size" : "M",
+	"age group" : "Adult",
+	"gender" : "male",
+	"material" : "cotton",
+	"imageMain" : "https://img1.etsystatic.com/033/0/9828374/il_214x170.640360617_gi9u.jpg"
+}
+{
+	"id" : 002,
+	"name" : "The Chillax",
+	"color" : "chill blue",
+	"size" : "M",
+	"age group" : "Adult",
+	"gender" : "male",
+	"material" : "cotton",
+	"imageMain" : "https://s-media-cache-ak0.pinimg.com/564x/56/76/3e/56763e7b55b73f4eeadd62da95b22417.jpg"
+}
+{
+	"id" : 003,
+	"name" : "The Raver",
+	"color" : "purple urple",
+	"size" : "M",
+	"age group" : "Adult",
+	"gender" : "male",
+	"material" : "cotton",
+	"imageMain" : "http://static3.businessinsider.com/image/574352c952bcd0210c8c48ae-1500-1125/eat-sleep-code-tshirt.jpg"
+}
+{
+	"id" : 004,
+	"name" : "The Business",
+	"color" : "executive black",
+	"size" : "M",
+	"age group" : "Adult",
+	"gender" : "male",
+	"material" : "cotton",
+	"imageMain" : "https://silkroadtees.com/media/catalog/product/cache/1/image/1200x1200/9df78eab33525d08d6e5fb8d27136e95/m/e/mens-t-shirt-unisex-tee-t-shirt-custom-made-graphic-t-shirt-black_16_31.jpg"
+}
+{
+	"id" : 005,
+	"name" : "The Golfer",
+	"color" : "under par pear",
+	"size" : "M",
+	"age group" : "Adult",
+	"gender" : "male",
+	"material" : "pima cotton",
+	"imageMain" : "http://g01.a.alicdn.com/kf/HTB151bnKFXXXXc1XFXXq6xXFXXXx/2016-The-IT-Crowd-font-b-T-b-font-font-b-Shirt-b-font-Roy-Computer.jpg"
+}
+]
+}
